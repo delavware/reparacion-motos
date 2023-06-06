@@ -1,0 +1,44 @@
+//*----- USERS -----*
+// CREATE
+{
+  "name": "Josh",
+  "email": "josh@email.com",
+  "password": "j1234",
+  "role": "client"
+}
+{
+  "name": "Carmen",
+  "email": "carmencita@email.com",
+  "password": "crc544",
+  "role": "client"
+}
+
+
+{
+  "name": "Jorge",
+  "email": "Jorge@email.com",
+  "password": "j0157",
+  "role": "employee"
+}
+
+// UPDATE
+{
+  "name": "josh modified",
+  "email": "joshmodified@email.com"
+}
+
+//*----- REPAIRS -----*
+// CREATE
+{
+  "date": "05/06/2023",
+  "userId": 1
+}
+{
+  "date": "05/09/2023",
+  "userId": 1
+}
+
+// UPDATE
+{
+  "status": "completed"
+}
